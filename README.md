@@ -1,1 +1,1 @@
-Build a movie recommendation system using collaborative filtering and machine learning
+Build a movie recommendation system using collaborative filtering and machine learnings
